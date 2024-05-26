@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Md.Rafiul Hoque Rifat.I'm a Professional web application developer(Asp.net Framework).
+- 👋 Assalamualaikum, I’m Md.Rafiul Hoque Rifat from Bangladesh.I'm a Professional web application developer(Asp.net Framework).
 - 👀 I’m interested in building Applications using Asp.Net along with jQuery Ajax and Angular as Front-end.I'm also expert in html,css,javascript and bootstrap.
-- 🌱 I’m currently learning Asp.net MVC 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Please Contact to my E-mail: "rhr74328@gmail.com" and What's up: "+8801566012942"
+- 📫Please Contact to my E-mail: "rhr74328@gmail.com" and What's app: "+8801566012942" for further query.
 - 😄 Pronouns: Rifat
 - ⚡ Fun fact:
 
