@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Junior Software Engineer | Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/b9zDbyb.png" width="300px" alt="Coding Guy" />
+  <img src="[https://i.imgur.com/b9zDbyb.png](https://drive.google.com/file/d/1JJHIfYp2RgKl-NhIOZVyQGvf-nViuzCI/view?usp=drivesdk)" width="300px" alt="Coding Guy" />
 </p>
 
 ---
