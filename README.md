@@ -2,8 +2,8 @@
 <h3 align="center">👨‍💻 Junior Software Engineer | Full Stack .NET & Angular Developer</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/b9zDbyb.png" width="300" alt="Coding Guy" />
-![Coding Guy](https://i.imgur.com/b9zDbyb.png)
+  <img src="[https://i.imgur.com/b9zDbyb.png](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?t=st=1757957288~exp=1757960888~hmac=f167612229098aac2a760785e34c05212beb14a0061146ccb3aa32b41fac8d12&w=1480)" width="300" alt="Coding Guy" />
+
 </p>
 
 ---
