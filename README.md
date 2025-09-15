@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://i.imgur.com/b9zDbyb.png" width="300" alt="Coding Guy" />
+![Coding Guy](https://i.imgur.com/b9zDbyb.png)
 </p>
 
 ---
