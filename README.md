@@ -47,10 +47,10 @@
 
 ---
 
-## 📂 Featured Projects *(Optional)*
+[## 📂 Featured Projects *(Optional)*
 
 - 🔗 [Project Title](https://github.com/YourUsername/ProjectRepo) - Short description.
-- 🔗 [Another Project](https://github.com/YourUsername/AnotherRepo) - Short description.
+- 🔗 [Another Project](https://github.com/YourUsername/AnotherRepo) - Short description.](url)
 
 ---
 
