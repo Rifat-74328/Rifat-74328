@@ -35,8 +35,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhr-74328&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhr-74328&layout=compact&theme=tokyonight" height="150" />
+  <!-- If working -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rifat-74328&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifat-74328&layout=compact&theme=tokyonight" height="150" />
+
+  <!-- If failing -->
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Rifat-74328&color=blue&style=flat-square" />
 </p>
 
 ---
